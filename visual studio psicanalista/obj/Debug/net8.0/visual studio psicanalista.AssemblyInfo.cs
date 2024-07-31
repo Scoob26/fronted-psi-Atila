@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("visual studio psicanalista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39101fe994ea81d9c1163d310b4c4446670d89eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa1246967c71c50ce24e360ffb0244bf555345a")]
 [assembly: System.Reflection.AssemblyProductAttribute("visual studio psicanalista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("visual studio psicanalista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

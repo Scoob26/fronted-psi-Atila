@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\visual studio psicanalista.csproj": {}
+    "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\visual studio psicanalista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\visual studio psicanalista.csproj": {
+    "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\visual studio psicanalista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\visual studio psicanalista.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\visual studio psicanalista.csproj",
         "projectName": "visual studio psicanalista",
-        "projectPath": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\visual studio psicanalista.csproj",
+        "projectPath": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\visual studio psicanalista.csproj",
         "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\obj\\",
+        "outputPath": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rIpGTfNOhiC75S7qGeto44JXX4VmsKfMcSBWpMRrSZU=",
+  "Hash": "4yB5b/Qa5jdPMlNSHjTfHOUz5Y4Kt3+3vEmqGNciBa4=",
   "Source": "visual studio psicanalista",
   "BasePath": "_content/visual studio psicanalista",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "visual studio psicanalista\\wwwroot",
       "Source": "visual studio psicanalista",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\visual studio psicanalista.styles.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\visual studio psicanalista.styles.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "visual studio psicanalista.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\visual studio psicanalista.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\bundle\\visual studio psicanalista.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\visual studio psicanalista.bundle.scp.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\visual studio psicanalista.bundle.scp.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "visual studio psicanalista.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\visual studio psicanalista.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\visual studio psicanalista.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\css\\index.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\css\\index.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\css\\login.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\css\\main.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\css\\responsive.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\css\\submenu.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\css\\submenu.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "css/submenu.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\submenu.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\favicon.ico",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\About\\LogoPsi.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\About\\LogoPsi.png",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/About/LogoPsi.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\About\\LogoPsi.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog 5.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog 5.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Blogs/blog 5.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog 5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog 6.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog 6.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Blogs/blog 6.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog 6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-1.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-1.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Blogs/blog-1.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-2.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-2.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Blogs/blog-2.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-3.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-3.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Blogs/blog-3.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-4.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Blogs\\blog-4.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Blogs/blog-4.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blogs\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Home\\psi.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Home\\psi.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Home/psi.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Home\\psi.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-1.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-1.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Portfolio/portifolio-1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\portifolio-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-2.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-2.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Portfolio/portifolio-2.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\portifolio-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-3.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-3.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Portfolio/portifolio-3.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\portifolio-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-4.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-4.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Portfolio/portifolio-4.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\portifolio-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-5.png",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-5.png",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Portfolio/portifolio-5.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\portifolio-5.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-6.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Portfolio\\portifolio-6.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Portfolio/portifolio-6.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Portfolio\\portifolio-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-1.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-1.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Testimonials/pic-1.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pic-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-2.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-2.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Testimonials/pic-2.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pic-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-3.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-3.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Testimonials/pic-3.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pic-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-4.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-4.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Testimonials/pic-4.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pic-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-5.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-5.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Testimonials/pic-5.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pic-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-6.jpg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\images\\Testimonials\\pic-6.jpg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "images/Testimonials/pic-6.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Testimonials\\pic-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\js\\blog-slider.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\js\\blog-slider.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "js/blog-slider.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\blog-slider.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\js\\counter-up.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\js\\counter-up.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "js/counter-up.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\counter-up.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\js\\portfolio.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\js\\portfolio.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "js/portfolio.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\portfolio.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\js\\script.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\js\\scroll-spy.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\js\\scroll-spy.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "js/scroll-spy.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scroll-spy.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\js\\site.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\js\\testi-slider.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\js\\testi-slider.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "js/testi-slider.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\js\\testi-slider.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\animations.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\animations.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/css/animations.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\animations.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\boxicons.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\boxicons.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/css/boxicons.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\boxicons.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\boxicons.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\boxicons.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/css/boxicons.min.css",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\transformations.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\css\\transformations.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/css/transformations.css",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\css\\transformations.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.eot",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.svg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.ttf",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\boxicons\\fonts\\boxicons.woff2",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/boxicons/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\plyr.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\plyr.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/glightbox/css/plyr.css",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\plyr.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\plyr.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\css\\plyr.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/glightbox/css/plyr.min.css",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "lib/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\php\\smtp\\class.phpmailer.php",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\php\\smtp\\class.phpmailer.php",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "php/smtp/class.phpmailer.php",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\php\\smtp\\class.phpmailer.php"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\php\\smtp\\class.smtp.php",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\php\\smtp\\class.smtp.php",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "php/smtp/class.smtp.php",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\php\\smtp\\class.smtp.php"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\php\\smtp\\PHPMailerAutoload.php",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\php\\smtp\\PHPMailerAutoload.php",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "php/smtp/PHPMailerAutoload.php",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\php\\smtp\\PHPMailerAutoload.php"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\php\\submit.php",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\php\\submit.php",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "php/submit.php",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\php\\submit.php"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\all.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\all.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/all.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\all.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\all.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\all.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/all.min.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\brands.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\brands.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/brands.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\brands.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\brands.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\brands.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/brands.min.css",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\fontawesome.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/fontawesome.css",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\fontawesome.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\regular.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\regular.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/regular.css",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\regular.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\regular.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\regular.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/regular.min.css",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\solid.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\solid.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/solid.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\solid.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\solid.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\solid.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/solid.min.css",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\svg-with-js.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\svg-with-js.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/svg-with-js.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\svg-with-js.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\svg-with-js.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\v4-shims.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\v4-shims.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/v4-shims.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\v4-shims.min.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\css\\v4-shims.min.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\all.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\all.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/all.js",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\all.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\all.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\all.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/all.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\all.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\brands.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\brands.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/brands.js",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\brands.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\brands.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\brands.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/brands.min.js",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\conflict-detection.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\conflict-detection.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/conflict-detection.js",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\conflict-detection.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\conflict-detection.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/conflict-detection.min.js",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\fontawesome.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\fontawesome.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/fontawesome.js",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\fontawesome.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\fontawesome.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/fontawesome.min.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\regular.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\regular.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/regular.js",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\regular.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\regular.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\regular.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/regular.min.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\solid.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\solid.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/solid.js",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\solid.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\solid.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\solid.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/solid.min.js",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\v4-shims.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\v4-shims.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/v4-shims.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\v4-shims.min.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\js\\v4-shims.min.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/js/v4-shims.min.js",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.eot",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.svg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.woff",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.eot",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.svg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.woff",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.eot",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.svg",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.woff",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\jquery\\jquery-3.6.0.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\jquery\\jquery-3.6.0.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/jquery/jquery-3.6.0.js",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\jquery\\jquery-3.6.0.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\magnific-popup\\jquery.magnific-popup.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\magnific-popup\\jquery.magnific-popup.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/magnific-popup/jquery.magnific-popup.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\magnific-popup\\jquery.magnific-popup.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\magnific-popup\\magnific-popup.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\magnific-popup\\magnific-popup.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/magnific-popup/magnific-popup.css",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\magnific-popup\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\swiper\\swiper.css",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\swiper\\swiper.css",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/swiper/swiper.css",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\swiper\\swiper.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\swiper\\swiper.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\swiper\\swiper.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/swiper/swiper.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\vendors\\swiper\\swiper.js"
     },
     {
-      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\vendors\\typed\\typed.js",
+      "Identity": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\vendors\\typed\\typed.js",
       "SourceId": "visual studio psicanalista",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\visual studio psicanalista\\visual studio psicanalista\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno Noite\\Desktop\\fronted-psi-Atila\\visual studio psicanalista\\wwwroot\\",
       "BasePath": "_content/visual studio psicanalista",
       "RelativePath": "vendors/typed/typed.js",
       "AssetKind": "All",

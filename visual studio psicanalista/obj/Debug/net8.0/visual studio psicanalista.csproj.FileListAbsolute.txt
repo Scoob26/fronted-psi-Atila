@@ -29,3 +29,36 @@ C:\Users\Aluno Noite\Desktop\visual studio psicanalista\visual studio psicanalis
 C:\Users\Aluno Noite\Desktop\visual studio psicanalista\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.genruntimeconfig.cache
 C:\Users\Aluno Noite\Desktop\visual studio psicanalista\visual studio psicanalista\obj\Debug\net8.0\ref\visual studio psicanalista.dll
 C:\Users\Aluno Noite\Desktop\visual studio psicanalista\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.sourcelink.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\visual studio psicanalista.staticwebassets.runtime.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\visual studio psicanalista.exe
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\visual studio psicanalista.deps.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\visual studio psicanalista.runtimeconfig.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\visual studio psicanalista.dll
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\bin\Debug\net8.0\visual studio psicanalista.pdb
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.AssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.RazorAssemblyInfo.cache
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.RazorAssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.sourcelink.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\staticwebassets\msbuild.visual studio psicanalista.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\staticwebassets\msbuild.build.visual studio psicanalista.props
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.visual studio psicanalista.props
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.visual studio psicanalista.props
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\scopedcss\bundle\visual studio psicanalista.styles.css
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\scopedcss\projectbundle\visual studio psicanalista.bundle.scp.css
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.dll
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\refint\visual studio psicanalista.dll
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.pdb
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\visual studio psicanalista.genruntimeconfig.cache
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\ref\visual studio psicanalista.dll
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutCadastro.cshtml.rz.scp.css
+C:\Users\Aluno Noite\Desktop\fronted-psi-Atila\visual studio psicanalista\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutGerenciamento.cshtml.rz.scp.css
